@@ -15,7 +15,7 @@ function getRandFile() {
 }
 
 
-server.get('/ad', function (req, res, next) {
+server.get('/banner', function (req, res, next) {
   const now = new Date()
   const nowGMTString = now.toGMTString()
   
