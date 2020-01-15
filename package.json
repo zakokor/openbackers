@@ -1,0 +1,28 @@
+{
+  "name": "openbackers",
+  "version": "0.0.1",
+  "description": "Ad Exchange Platform for Open Source Projects",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "GitHub",
+    "badge",
+    "SVG",
+    "image"
+  ],
+  "author": "Gonzalo Aragon <zakokor@gmail.com>",
+  "license": "AGPL-3.0",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/zakokor/openbackers"
+  },
+  "devDependencies": {
+    "express": "^4.17.1"
+  },
+  "dependencies": {
+    "express": "^4.17.1"
+  }
+}
