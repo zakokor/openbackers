@@ -14,7 +14,7 @@ There are many open source projects that are created without a budget, waiting t
 
 ## Example
 
-![Open Backers](http://159.89.36.109:4000/banner)
+![Open Backers](http://openbackers.com/banner)
 
 ## Contributing
 
@@ -25,10 +25,10 @@ Open Backers is free, open-source software licensed under AGPLv3 and contributio
 Insert a banner into your website or Github page, ideally on the Backers section.
 
 **Use markdown**
-`![Open Backers](http://159.89.36.109:4000/banner)`
+`![Open Backers](http://openbackers.com/banner)`
 
 **Directly on your website**
-`<img src="http://159.89.36.109:4000/banner" alt="Open Backers" width="224px" height="90px" />`
+`<img src="http://openbackers.com/banner" alt="Open Backers" width="224px" height="90px" />`
 
 ### [Quickstart guide for Developers / Open Source Projects]
 
@@ -54,10 +54,10 @@ If you have a great open source project to launch, this is how you do it.
 4. Insert a banner into your website or Github page, ideally on the Backers section.
 
 **Use markdown**
-`![Open Backers](http://159.89.36.109:4000/banner)`
+`![Open Backers](http://openbackers.com/banner)`
 
 **Directly on your website**
-`<img src="http://159.89.36.109:4000/banner" alt="Open Backers" width="224px" height="90px" />`
+`<img src="http://openbackers.com/banner" alt="Open Backers" width="224px" height="90px" />`
 
 
 ### Built With
