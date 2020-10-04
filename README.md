@@ -66,6 +66,12 @@ If you have a great open source project to launch, this is how you do it.
 * [Express](https://github.com/expressjs/express)
 * No database
 
+## Development
+
+### Start the application
+
+node index.js
+
 ### License
 
 Open Backers is [GNU Affero License](./LICENSE).
