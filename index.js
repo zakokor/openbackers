@@ -14,6 +14,7 @@ function getRandFile() {
   return img;
 }
 
+server.get('/', (req, res) => { res.send("Hello World!")})
 
 server.get('/banner', function (req, res, next) {
   const now = new Date()
