@@ -3,8 +3,6 @@ Open Backers &middot; ![GitHub license](https://img.shields.io/github/license/za
 
 Open Backers is a free and light way to launch your open source project.
 
-> **Warning**: Open Backers is still in development. You can try it, but the link could change without notice or stop working.
-
 ## Motivation
 
 There are many open source projects that are created without a budget, waiting to be discovered, so I thought that one way to help would be to create a simple tool that helps to exchange banners, open and transparent, to randomly display open source projects.
