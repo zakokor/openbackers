@@ -30,7 +30,7 @@ server.get('/banner', function (req, res, next) {
   res.sendFile(projectsPath+getRandFile());
 });
 
-const port = 4000;
+const port = process.env.PORT || 4000;
 
 server.listen(port, () => {
     console.log(`Server listening at ${port}`);
