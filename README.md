@@ -18,7 +18,7 @@ There are many open source projects that are created without a budget, waiting t
 
 Open Backers is free, open-source software licensed under AGPLv3 and contributions of any kind are welcome!. You can open issues for bugs you've found or features you think are missing. You can also submit pull requests to this repository.
 
-### [Quickstart guide for Publishers]
+### [Quickstart Guide for Publishers]
 
 Insert a banner into your website or Github page, ideally on the Backers section.
 
@@ -28,13 +28,13 @@ Insert a banner into your website or Github page, ideally on the Backers section
 **Directly on your website**
 `<img src="http://openbackers.com/banner" alt="Open Backers" width="224px" height="90px" />`
 
-### [Quickstart guide for Developers / Open Source Projects]
+### [Quickstart Guide for Developers / Open Source Projects]
 
 If you have a great open source project to launch, this is how you do it.
 
 1. Create a transparent PNG image (224x90 pixels) with your project logo/illustration. You can download a blank file [here](./template.png)
 2. Convert your image to base64.
-3. Get the code and replace it with your image on the xlink:href attribute.
+3. Get the code and replace it with your image on the xlink:href="data:image/png;base64... attribute.
 
 ```
 <svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="240" height="110">
