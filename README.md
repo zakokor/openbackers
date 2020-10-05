@@ -68,7 +68,7 @@ If you have a great open source project to launch, this is how you do it.
 
 ### Start the application
 
-node index.js
+npm run start
 
 ### License
 
